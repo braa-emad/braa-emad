@@ -1,12 +1,10 @@
-# Ox64r42
-
 <p align="center">
   <img src="https://media1.tenor.com/m/FnhOdRjKszMAAAAd/heart-stopper-hunter-x-hunter.gif" width="600" />
 </p>
 
 ---
 
-<h1 align="center">yooo 👋, Im'm Baraa Emad</h1>
+<h1 align="center">yooo 👋, I'm Baraa Emad</h1>
 <h3 align="center">Passionate Developer & Security Enthusiast </h3>
 
 

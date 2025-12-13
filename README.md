@@ -62,7 +62,7 @@ Malware Analysis Enthusiast • Bug Bounty Hunter • Backend Developer
 <a href="https://x.com/BraaEmad15" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="BraaEmad15" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/braaemad/" target="blank"><img align="center" src="./Leetcode.svg" alt="braaemad" height="30" width="40" /></a>
   <a href="https://0x64ra2.medium.com/" target="blank"><img align="center" src="./logo-medium-svgrepo-com.svg" alt="braaemad" height="30" width="40" /></a>
-  <a href="https://8araa.me/" target="blank"><img align="center" src="./BaraaEmadIcon" alt="" height="30" width="40" /></a>
+  <a href="https://8araa.me/" target="blank"><img align="center" src="./BaraaEmadIcon.png" alt="" height="30" width="40" /></a>
 
 </p>
 

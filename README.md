@@ -27,20 +27,21 @@ Malware Analysis Enthusiast • Bug Bounty Hunter • Backend Developer
 
 ## 🔭 Currently Focused On
 
-- Malware Analysis (static & dynamic)
+- Malware Analysis
 - Web & API Penetration Testing
 - Bug Bounty Research
-- Secure Backend Systems
+- Build Secure Backend Systems
 
 ---
 
 ## 🌱 Learning & Improving
 
 - Advanced **Node.js Architecture**
-- **NestJS** (Guards, Interceptors, Auth flows)
+- **NestJS**
 - API Security & OWASP Top 10
-- Linux Internals & Networking
+- Problem Solving & Networking
 - Data Structures & Algorithms
+- System Administration & Active Directory
 
 ---
 
@@ -71,9 +72,9 @@ Malware Analysis Enthusiast • Bug Bounty Hunter • Backend Developer
 
 
 <p align="center">
-  <img src="./assets/footer.jpg" width="300" />
+  <img src="https://i.pinimg.com/236x/8d/c2/6e/8dc26ee5cb8f224f4ab420a781cf71a4.jpg" width="300" />
 </p>
 
 <p align="center">
-  <i>"Break it to understand it. Secure it to protect others."</i>
+  <i>"The ends justify the means"</i>
 </p>

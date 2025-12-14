@@ -53,17 +53,13 @@ Malware Analysis Enthusiast • Bug Bounty Hunter • Backend Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=braa-emad&theme=tokyonight" />
 </p>
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/0x6ara2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0x6ara2" height="30" width="40" /></a>
-<a href="https://x.com/BraaEmad15" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="BraaEmad15" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/braaemad/" target="blank"><img align="center" src="./Leetcode.svg" alt="braaemad" height="30" width="40" /></a>
-  <a href="https://0x64ra2.medium.com/" target="blank"><img align="center" src="./logo-medium-svgrepo-com.svg" alt="braaemad" height="30" width="40" /></a>
-  <a href="https://8araa.me/" target="blank"><img align="center" src="./BaraaEmadIcon.png" alt="" height="30" width="40" /></a>
-
-</p>
+## Links
+[![Leetcode]()](https://leetcode.com/u/braaemad/)
+[![Medium](https://img.shields.io/badge/Medium-FFFFFF?logo=medium&logoColor=black&style=for-the-badge)](https://0x64ra2.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/0x6ara2/)
+[![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://x.com/BraaEmad15)
+[![B](./BaraaEmadIcon.png)](https://8araa.me/)
 
 ---
 
